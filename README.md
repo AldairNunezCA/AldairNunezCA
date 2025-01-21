@@ -1,6 +1,6 @@
 # 👋 Hello, I'm AldairnunezCA!
 
-Welcome to my corner of the internet! I'm a passionate developer with a love for animated movies *specially stop-motion* and video games. When I'm not writing code, you can find struggling in the world of **League of Legends**.
+Welcome to my corner of the internet! I'm a passionate developer with a love for animated movies *specially stop-motion* and video games. When I'm not writing code, you can find enjoying a nice videogame, watching a movie, or probably just scrolling through my phone*.
 
 ## 🚀 Tech Stack
 I work with a variety of technologies, and I'm always excited to learn more. Here are the tools I frequently use:
@@ -43,4 +43,4 @@ Feel free to check out my repositories, contribute, or just say hi!
 
 ---
 
-> "Coding is like playing league – the only difference is, in coding, you can actually win!" 😄
+> "Coding is like playing league of legends – the only difference is, in coding, you can actually win!" 😄
