@@ -28,7 +28,7 @@ I work with a variety of technologies, and I'm always excited to learn more. Her
 
 ## 🌟 Interests & Hobbies
 - 🎬 **Animated Movies**: I'm a huge fan of well-crafted animation, whether it's from big studios like Pixar or smaller indie films.
-- 🎮 **Video Games**: I enjoy exploring any games that offer great storytelling, unique mechanics, and challenging gameplay. Or at least a cute character. 🤗
+- 🎮 **Video Games**: I enjoy exploring any game as long as it offers great storytelling, unique mechanics, and challenging gameplay. Or at least a cute character. 🤗
 
 ## 💻 Current Projects
 I’m currently working on:
@@ -37,7 +37,7 @@ I’m currently working on:
 ## 💬 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/aldairnunezca/
 - 📧 Email: aldairnunezca@gmail.com
-- 📸 Ig: aldairnunezca 
+- 📸 Ig: nv.aldair 
 
 Feel free to check out my repositories, contribute, or just say hi!
 
