@@ -1,6 +1,6 @@
 # 👋 Hello, I'm AldairnunezCA!
 
-Welcome to my corner of the internet! I'm a passionate developer with a love for animated movies *specially stop-motion* and video games. When I'm not writing code, you can find enjoying a nice videogame, watching a movie, or probably just scrolling through my phone*.
+Welcome to my corner of the internet! I'm a passionate developer with a love for animated movies *specially stop-motion* and video games. When I'm not writing code, you can find me enjoying a nice videogame, watching a movie, or probably just scrolling through my phone*.
 
 ## 🚀 Tech Stack
 I work with a variety of technologies, and I'm always excited to learn more. Here are the tools I frequently use:
@@ -30,9 +30,6 @@ I work with a variety of technologies, and I'm always excited to learn more. Her
 - 🎬 **Animated Movies**: I'm a huge fan of well-crafted animation, whether it's from big studios like Pixar or smaller indie films.
 - 🎮 **Video Games**: I enjoy exploring any game as long as it offers great storytelling, unique mechanics, and challenging gameplay. Or at least a cute character. 🤗
 
-## 💻 Current Projects
-I’m currently working on:
-- A **full-stack proyect** to help fitness users track their workout, purchase wellbeing products, or get in touch with gyms close to their location.
   
 ## 💬 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/aldairnunezca/
